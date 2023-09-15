@@ -4,14 +4,6 @@
 # StudyBuddy
 </div>
 
-### Cloning the repository
-
---> Clone the repository using the command below :
-```bash
-git clone https://github.com/divanov11/StudyBud.git
-
-```
-
 --> Move into the directory where we have the project files : 
 ```bash
 cd StudyBud
